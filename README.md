@@ -1,6 +1,6 @@
 # EZhometech 12.0.002n CRACKED 
 ================================================================================
-wget http://raw.githubusercontent.com/marconimp/ezhometech/master/install.sh
+wget http://raw.githubusercontent.com/nggotv/ezhometech/master/install.sh
 
 chmod 777 install.sh
 
@@ -22,7 +22,7 @@ Password: go-inside
 
 ================================================================================
 # EZhometech Free
-wget http://raw.githubusercontent.com/marconimp/ezhometech/master/ezserver.free.sh
+wget http://raw.githubusercontent.com/nggotv/ezhometech/master/ezserver.free.sh
 
 chmod 777 ezserver.free.sh
 
